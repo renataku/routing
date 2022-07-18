@@ -1,0 +1,14 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-photo {
+  width: 400px;
+}
+
+.about-photo img {
+  width: 100%;
+  height: 100%;
+}
